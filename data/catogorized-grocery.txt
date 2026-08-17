@@ -1,0 +1,51 @@
+To categorize and sort the grocery items, I will group them based on their type and then sort them alphabetically within each category. Here is the list:
+
+
+1. Bakery
+	* Baking supplies
+	* Bread
+	* Cakes
+	* Cinnamon rolls
+	* Cookies
+	* Pastries
+2. Beverages
+	* Coffee
+	* Juice
+	* Milk
+	* Soda
+	* Tea
+3. Dairy
+	* Butter
+	* Cheese
+	* Eggs
+	* Milk
+4. Meat
+	* Bacon
+	* Beef
+	* Chicken
+	* Fish
+	* Ground beef
+	* Lamb
+	* Pork
+5. Produce
+	* Apples
+	* Bananas
+	* Carrots
+	* Celery
+	* Cucumbers
+	* Grapes
+	* Lettuce
+	* Onions
+	* Potatoes
+	* Tomatoes
+6. Pantry
+	* Almond butter
+	* Bread crumbs
+	* Flour
+	* Granola
+	* Oats
+	* Pasta
+	* Rice
+	* Salt
+	* Sugar
+	* Tortillas
